@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fffff0"
+    android:orientation="vertical"
+    android:id="@+id/fragement1_layout" >
+
+    <jiajia.other.MyListView
+        android:id="@+id/listview1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="vertical"
+        android:divider="@drawable/listview_divider"
+        android:dividerHeight="8dp"
+        >
+    </jiajia.other.MyListView>
+
+</LinearLayout>

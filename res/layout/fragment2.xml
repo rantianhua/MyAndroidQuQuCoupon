@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+ 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ExpandableListView
+        android:id="@+id/expandableListView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="20dp"
+        android:divider="#fffff0"
+        android:dividerHeight="18dip"       
+        android:childIndicatorLeft="5dip"
+        android:cacheColorHint="#00000000"
+        android:drawSelectorOnTop="false"
+        >
+    </ExpandableListView>
+
+    
+    
+</LinearLayout>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">蛐蛐儿优惠</string>
+    <string name="action_settings">Settings</string>
+	<string name="editText_email">你的邮箱</string>
+	<string name="editText_password">你的密码</string>
+	<string name="btn_login">登 录</string>
+	<string name="btn_register">注 册</string>
+	<string name="btn_register_cansel">取 消</string>
+	<string name="btn_forgetPwd">忘记密码</string>
+	<string name="image_email_content">邮箱图</string>
+	<string name="image_cutLine_content">分割线</string>
+	<string name="image_listItem_content">优惠图片</string>
+	<string name="image_lock_content">密码图</string>
+	<string name="textView_email">邮箱:</string>
+	<string name="textView_password">密码:</string>
+	<string name="textView_register_email">邮箱:</string>
+	<string name="textView_register_password">密码:</string>
+	<string name="textView_register_surePwd">重复密码:</string>
+	<string name="editText_registerEmail">请输入你的邮箱</string>
+	<string name="editText_registerPwd">你的密码</string>
+	<string name="editText_registerSurePwd">确认密码</string>
+	<string name="home_textView_rest">剩余</string>
+	<string name="home_textView_zhang">张</string>
+	<string name="information_condition">领取条件</string>
+	<string name="information_textView_rest">剩余数量 : </string>
+	<string name="information_textView_phonNum">联系电话 : </string>
+	<string name="information_textView_address">联系地址 : </string>
+	<string name="information_textView_time">起止时间 : </string>
+	<string name="button_delete">删  除</string>
+	<string name="logo_name">蛐蛐儿优惠</string>
+	<string name="smalllogo_name">每天都是惊喜</string>
+</resources>

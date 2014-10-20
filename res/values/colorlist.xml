@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="red">#FF0000</color>
+    <color name="white_gray">#c0c0cD</color>
+    <color name="btn_useNow">#FFA500</color>
+    <color name="btn_haveUse">#436EEE</color>
+    <color name="btn_outTime">#4B0082</color>
+    <color name="btn_getNow">#FF3030</color>
+    <color name="a">#fea64b</color>
+    <color name="b">#5f9ce7</color>
+    <color name="c">#966abc</color>
+    
+</resources>
