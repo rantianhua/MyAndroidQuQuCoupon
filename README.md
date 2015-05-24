@@ -1,2 +1,0 @@
-# MyAndroidQuQuCoupon
-蛐蛐儿优惠工程,利用音频二维码来验证用户领取的优惠券
